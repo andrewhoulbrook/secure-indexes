@@ -143,7 +143,7 @@ A few other quick examples using some relatively unique keywords and no obvious 
 </p>
 
 <p align="center">
-    <img src="/doc/grep-alice-moriarty.png" alt="moriarty search check">
+    <img src="/doc/search-example-moriarty.png" alt="moriarty search example">
 </p>
 
 ## Built with
