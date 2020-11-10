@@ -112,8 +112,6 @@ If ```siBuildIndex``` is also used to encrypt documents after indexing, it lazil
 
 Secure indexes can be built on the client side. Encrypted document/secure index pairs can then be uploaded to the server. 
 
-In the example below i've run the index building on the server for testing and convenience:
-
 <p align="center">
     <img src="/doc/index-build-example.png" alt="secure index building example">
 </p>
@@ -149,8 +147,8 @@ A few other quick examples using some relatively unique keywords and no obvious 
 ## Built with
 
 * [Go](https://golang.org/)
-* [Go, CAT Package](https://github.com/lu4p/cat)
-* [Go, Prose.v2 Package](https://gopkg.in/jdkato/prose.v2)
+* [CAT Package](https://github.com/lu4p/cat)
+* [Prose.v2 Package](https://gopkg.in/jdkato/prose.v2)
 
 **Why Go?** Why not. I'm new to Go. A chance to experiment and learn some of the fundamentals! 
 
