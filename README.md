@@ -106,7 +106,7 @@ The above are imported as packages into the ```siBuild.go```, ```siSearchClient.
 
 # Running the Code
 
-Run ```siBuildIndex``` on a collection of documents. The index build will recurse through all sub-directories within a given root directory looking for documents (.pdf, .rtf, .csv, .txt) to index and optionally encrypt. The user can also encrypt their documents independently of ```siIndexBuild```. A ```.sindex``` file will be created for each document indexed. 
+Run ```siBuildIndex``` on a collection of documents. The index build will recurse through all sub-directories within a given root directory looking for documents (.pdf, .rtf, .csv, .txt) to index and optionally encrypt. The user can also encrypt their documents independently of ```siBuildIndex```. A ```.sindex``` file will be created for each document indexed. 
 
 If ```siBuildIndex``` is also used to encrypt documents after indexing, it lazily dumps the keys into the same folder as the user's index keys.  
 
